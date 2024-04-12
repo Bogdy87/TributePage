@@ -1,0 +1,63 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+body{
+  font-size:100%;
+  Font-Family: "Cabin",Sans-Serif
+}
+
+
+#main {
+  max-width:800px;
+  margin:0;
+  padding:0;
+}
+
+#title, p{
+  text-align:center;
+}
+
+#img-div {
+  text-align:center;
+}
+#tribute-info {
+  text-align:justify;
+  line-height: 1.50
+}
+#headline{
+  text-align:center;
+  font-size:1.8em;
+}
+#image{
+  max-width:100%;
+  height:auto;
+  display:block;
+  margin:0 auto;
+}
+
+#img-caption {
+  text-align:justify;
+  margin-bottom:20px;
+}
+#tribute-link {
+  display:block;
+  text-align:center;
+  color:#007bff;
+  text-decoration:none;
+}
+
+blockquote{
+  font-size: 1.25em;
+  line-height: 1.25
+}
+
+#cite {
+  text-align:center;
+}
+
+
+
+
+
